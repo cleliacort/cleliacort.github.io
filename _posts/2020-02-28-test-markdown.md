@@ -4,7 +4,7 @@ title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-categories:
+category:
   - Code to Myself
 tags: [test]
 comments: true
