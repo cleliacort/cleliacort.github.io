@@ -16,7 +16,7 @@ author: Clelia C.
 navbar-links:
   Home: "home"
   About Me: "aboutme"
-  3Lines of Info: "" 
+  3Lines of Info: "/_posts" 
   Codes to Myself: ""
   Useful Commands: ""
   #Resources:
