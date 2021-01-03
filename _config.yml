@@ -14,7 +14,7 @@ author: Clelia C.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "1_home"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "Sample blog post"
