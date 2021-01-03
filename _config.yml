@@ -16,10 +16,13 @@ author: Clelia C.
 navbar-links:
   Home: "home"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "/_posts/2020-02-28-test-markdown"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  3Lines of Information:
+  Codes to Myself:
+  Useful Commands:
+  #Resources:
+  #  - Beautiful Jekyll: "/_posts/2020-02-28-test-markdown"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
