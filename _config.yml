@@ -16,9 +16,10 @@ author: Clelia C.
 navbar-links:
   Home: "home"
   About Me: "aboutme"
-  3Lines of Information: "_posts/" 
-  Codes to Myself:
-  Useful Commands:
+  Category:
+    - 3Lines of Information: "_posts/" 
+    - Codes to Myself:
+    - Useful Commands:
   #Resources:
   #  - Beautiful Jekyll: "/_posts/2020-02-28-test-markdown"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
