@@ -20,12 +20,8 @@ On this website, I will mainly write ideas related to the field of **Bioinformat
 
 After this introduction, I briefly present the sections of this website:
 
-*HOME* :point_right: you will find this introduction (LOL);
-
-**ABOUT ME**: you will find a presentation of my self (LOL2);
-
-3LINES OF INFORMATION: you will find posts in 3 lines that contain a short piece of information;
-
-CODE TO MYSELF: you will find some commented code;
-
-USEFUL COMMANDS: you will find a collection of useful commands organized by packages or languages.
+- **HOME**, you will find this introduction (LOL);
+- **ABOUT ME**, you will find a presentation of my self (LOL2);
+- **3LINES OF INFORMATION**, you will find posts in 3 lines that contain a short piece of information;
+- **CODE TO MYSELF**, you will find some commented code;
+- **USEFUL COMMANDS**, you will find a collection of useful commands organized by packages or languages.
