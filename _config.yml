@@ -194,7 +194,7 @@ timezone: "Italy/Rome"
 markdown: kramdown
 highlighter: rouge
 #permalink: /home
-permalink: /:year-:month-:day-:title/
+permalink: /home/:title/
 paginate: 5
 paginate_path: "/home/page:num/"
 
