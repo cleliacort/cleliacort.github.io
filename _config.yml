@@ -193,7 +193,7 @@ date_format: "%B %-d, %Y"
 timezone: "Italy/Rome"
 markdown: kramdown
 highlighter: rouge
-permalink: /home/
+permalink: /home
 #permalink: /:year-:month-:day-:title/
 paginate: 5
 
