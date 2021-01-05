@@ -196,6 +196,7 @@ highlighter: rouge
 #permalink: /home
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/home/page:num/"
 
 kramdown:
   input: GFM
